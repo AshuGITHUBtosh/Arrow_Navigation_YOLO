@@ -15,4 +15,7 @@ This project implements an autonomous arrow-based navigation system using ROS, Y
   - Python 3.x
 
 ## Execution
-- ``` cd Arrow_Navigation_YOLO/
+- ``` cd Arrow_Navigation_YOLO-master/bot_ws_2-master ```
+- ``` roscore ```
+- ``` ros2 launch turtlebot3_gazebo empty_world.launch.py ```
+- ``` cd 
