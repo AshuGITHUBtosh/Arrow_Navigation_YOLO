@@ -15,3 +15,4 @@ This project implements an autonomous arrow-based navigation system using ROS, Y
   - Python 3.x
 
 ## Execution
+- ``` cd Arrow_Navigation_YOLO/
