@@ -8,13 +8,19 @@ This project implements an autonomous arrow-based navigation system using ROS, Y
 - ROS2-based control to process detections and adjust rover movement.
 
 ## Prerequisites
-- ROS2 Humble
-  ```sudo apt update && sudo apt install -y ros-humble-desktop```
-- Gazebo
-- OpenCV
-- YOLOv8 (Ultralytics)
-- Python 3.x
+###R OS2 Humble
+-```sudo apt update && sudo apt install -y ros-humble-desktop```
+###Gazebo
+- ``` sudo apt install -y gazebo```
+### OpenCV
+- ```pip install opencv-python```
+### YOLOv8 (Ultralytics)
+- ``` pip install ultralytics```
+### Additional Dependencies
+- ``` pip install numpy rospy cv_bridge ```
 
+##  Project Setup
+### Clone repository
 ## Execution
 - ``` cd Arrow_Navigation_YOLO-master/bot_ws_2-master ```
 - ``` roscore ```
