@@ -9,6 +9,7 @@ This project implements an autonomous arrow-based navigation system using ROS, Y
 
 ## Prerequisites
 - ROS2 Humble
+  ```sudo apt update && sudo apt install -y ros-humble-desktop```
 - Gazebo
 - OpenCV
 - YOLOv8 (Ultralytics)
