@@ -19,8 +19,6 @@ This project implements an autonomous arrow-based navigation system using ROS, Y
 ### Additional Dependencies
 - ``` pip install numpy rospy cv_bridge ```
 
-##  Project Setup
-### Clone repository
 ## Execution
 - ``` cd Arrow_Navigation_YOLO-master/bot_ws_2-master ```
 - ``` roscore ```
