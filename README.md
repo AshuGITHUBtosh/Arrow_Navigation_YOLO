@@ -21,4 +21,4 @@ This project implements an autonomous arrow-based navigation system using ROS, Y
 - ``` cd /src/simple_navigation_goals/src ```
 - ``` python3 new_camera.py ```
 - ``` python3 move_fs ```
-- the above commands should open the turtlrbot3 in an empty world with the web cam of of the system on, now if the arrow is detected by the camera it will give the commands to the /cmd_vel topic accordingly and make the rover turn in the direction of the arrow detected.
+the above commands should open the turtlrbot3 in an empty world with the web cam of of the system on, now if the arrow is detected by the camera it will give the commands to the /cmd_vel topic accordingly and make the rover turn in the direction of the arrow detected.
