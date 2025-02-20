@@ -7,12 +7,12 @@ This project implements an autonomous arrow-based navigation system using ROS, Y
 - Webcam integration to detect arrows in real-world scenarios.
 - ROS2-based control to process detections and adjust rover movement.
 
-  ## Prerequisites
-  - ROS2 Humble
-  - Gazebo
-  - OpenCV
-  - YOLOv8 (Ultralytics)
-  - Python 3.x
+## Prerequisites
+- ROS2 Humble
+- Gazebo
+- OpenCV
+- YOLOv8 (Ultralytics)
+- Python 3.x
 
 ## Execution
 - ``` cd Arrow_Navigation_YOLO-master/bot_ws_2-master ```
